@@ -1,12 +1,20 @@
-
 {
-	"name": "com.unity.assetbundlebrowser",
-	"displayName": "Asset Bundle Browser",
-	"version": "1.7.0",
-	"unity": "2018.1",
-	"description": "The Asset Bundle Browser tool makes it possible to inspect the content of built AssetBundles.  It also has basic functionality to view and edit the configuration of AssetBundles and to launch builds.\n\nUse this tool as an alternative to selecting assets and setting their asset bundle manually in the inspector. Installing it will create a new menu item in Window > AssetBundle Browser.\n\nNote: For new projects consider using the Addressables package instead.",
-	"keywords": ["asset", "bundle", "bundles", "assetbundles"],
-	"category": "Asset Bundles",
-	"dependencies": {
-	}
+  "name": "com.unity.assetbundlebrowser",
+  "displayName": "Asset Bundle Browser",
+  "version": "1.7.0",
+  "unity": "2018.1",
+  "description": "Asset Bundle Browser \u5de5\u5177\u53ef\u4ee5\u68c0\u67e5\u5df2\u6784\u5efa\u7684 AssetBundles \u7684\u5185\u5bb9\u3002\n\u5b83\u8fd8\u5177\u6709\u67e5\u770b\u548c\u7f16\u8f91 AssetBundles \u914d\u7f6e\u4ee5\u53ca\u542f\u52a8\u6784\u5efa\u7684\u57fa\u672c\u529f\u80fd\u3002\n\u4f7f\u7528\u6b64\u5de5\u5177\u53ef\u4ee5\u66ff\u4ee3\u5728\u68c0\u67e5\u5668\u4e2d\u624b\u52a8\u9009\u62e9\u8d44\u4ea7\u548c\u8bbe\u7f6e\u5176\u8d44\u4ea7\u5305\u3002\n\u5b89\u88c5\u5b83\u5c06\u5728\u7a97\u53e3 > AssetBundle Browser \u4e2d\u521b\u5efa\u4e00\u4e2a\u65b0\u7684\u83dc\u5355\u9879\u3002\n\u6ce8\u610f\uff1a\u5bf9\u4e8e\u65b0\u9879\u76ee\uff0c\u8bf7\u8003\u8651\u4f7f\u7528 Addressables \u5305\u3002",
+  "keywords": [
+    "asset",
+    "bundle",
+    "bundles",
+    "assetbundles"
+  ],
+ "author": {
+    "name": "\u7396\u4e00",
+    "email": "1255755615@qq.com",
+    "url": ""
+  },
+
+  "category": "Asset Bundles"
 }
